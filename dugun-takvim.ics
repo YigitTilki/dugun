@@ -17,8 +17,8 @@ UID:dugun-2026-09-12@davetiye
 DTSTAMP:20260628T120000Z
 DTSTART;TZID=Europe/Istanbul:20260912T190000
 DTEND;TZID=Europe/Istanbul:20260912T235900
-SUMMARY:Gelin & Damat - Düğün Töreni
-LOCATION:Mekan adi, Ilce / Sehir
+SUMMARY:Yiğit & Elif - Düğün Töreni
+LOCATION:Mekan bilgisi yakinda
 DESCRIPTION:Mutlu günümüzde sizi de aramızda görmek isteriz.
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -33,14 +33,19 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kina-2026-09-11@davetiye
+UID:kina-2026-09-05@davetiye
 DTSTAMP:20260628T120000Z
-DTSTART;TZID=Europe/Istanbul:20260911T200000
-DTEND;TZID=Europe/Istanbul:20260911T233000
-SUMMARY:Gelin & Damat - Kına Gecesi
-LOCATION:Mekan adi, Ilce / Sehir
+DTSTART;TZID=Europe/Istanbul:20260905T200000
+DTEND;TZID=Europe/Istanbul:20260905T233000
+SUMMARY:Yiğit & Elif - Kına Gecesi
+LOCATION:Mekan bilgisi yakinda
 DESCRIPTION:Kına gecemize bekleriz.
 STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kına gecesine 1 gün kaldı
+TRIGGER:-P1D
+END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Kına gecesi bugün - 3 saat kaldı
