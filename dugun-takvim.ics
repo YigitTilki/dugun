@@ -18,8 +18,9 @@ DTSTAMP:20260628T120000Z
 DTSTART;TZID=Europe/Istanbul:20260912T190000
 DTEND;TZID=Europe/Istanbul:20260912T235900
 SUMMARY:Yiğit & Elif - Düğün Töreni
-LOCATION:Mekan bilgisi yakinda
-DESCRIPTION:Mutlu günümüzde sizi de aramızda görmek isteriz.
+LOCATION:https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
+URL:https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
+DESCRIPTION:Hayatımızın en güzel gününde\, sevincimize ortak olmanızı dileriz. Bu mutlu anı sizinle paylaşmak bizim için paha biçilemez. Sevgiyle bekliyoruz. ❤️\n\nKonum: https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -33,8 +34,9 @@ DTSTAMP:20260628T120000Z
 DTSTART;TZID=Europe/Istanbul:20260905T200000
 DTEND;TZID=Europe/Istanbul:20260905T233000
 SUMMARY:Yiğit & Elif - Kına Gecesi
-LOCATION:Mekan bilgisi yakinda
-DESCRIPTION:Kına gecemize bekleriz.
+LOCATION:https://maps.app.goo.gl/4ajuweib1sFcuWrq5
+URL:https://maps.app.goo.gl/4ajuweib1sFcuWrq5
+DESCRIPTION:Telli duvağı takıp kınamızı yakacağımız bu özel gecede\, eğlencemize ortak olmanızı çok isteriz. Sizi de aramızda görmek bizi çok mutlu eder. 🌿\n\nKonum: https://maps.app.goo.gl/4ajuweib1sFcuWrq5
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
