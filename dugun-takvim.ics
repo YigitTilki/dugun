@@ -3,44 +3,40 @@ VERSION:2.0
 PRODID:-//Dugun Davetiyesi//TR//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-BEGIN:VTIMEZONE
-TZID:Europe/Istanbul
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0300
-TZNAME:+03
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
-UID:dugun-2026-09-12@davetiye
-DTSTAMP:20260628T120000Z
+SUMMARY:Yiğit & Elif - Düğün Töreni
 DTSTART;TZID=Europe/Istanbul:20260912T190000
 DTEND;TZID=Europe/Istanbul:20260912T235900
-SUMMARY:Yiğit & Elif - Düğün Töreni
+DTSTAMP:20260628T120000Z
+UID:dugun-2026-09-12@davetiye
+DESCRIPTION:Hayatımızın en güzel gününde\, sevincimize ortak olmanı
+ zı dileriz. Bu mutlu anı sizinle paylaşmak bizim için paha biçilemez.
+  Sevgiyle bekliyoruz. ❤️\n\nKonum: https://maps.app.goo.gl/1dvWSxsH5bL
+ aQssVA
 LOCATION:https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
-URL:https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
-DESCRIPTION:Hayatımızın en güzel gününde\, sevincimize ortak olmanızı dileriz. Bu mutlu anı sizinle paylaşmak bizim için paha biçilemez. Sevgiyle bekliyoruz. ❤️\n\nKonum: https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
 STATUS:CONFIRMED
+URL:https://maps.app.goo.gl/1dvWSxsH5bLaQssVA
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Düğüne 2 gün kaldı
+DESCRIPTION:Yiğit & Elif - Düğün Töreni
 TRIGGER:-P2D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kina-2026-09-05@davetiye
-DTSTAMP:20260628T120000Z
-DTSTART;TZID=Europe/Istanbul:20260905T200000
-DTEND;TZID=Europe/Istanbul:20260905T233000
 SUMMARY:Yiğit & Elif - Kına Gecesi
+DTSTART;TZID=Europe/Istanbul:20260905T190000
+DTEND;TZID=Europe/Istanbul:20260905T233000
+DTSTAMP:20260628T120000Z
+UID:kina-2026-09-05@davetiye
+DESCRIPTION:Kına gecemizde sevincimize ortak olmanızı dileriz. Sizi de 
+ aramızda görmek bizi çok mutlu eder. 🌿\n\nKonum: https://maps.app.go
+ o.gl/4ajuweib1sFcuWrq5
 LOCATION:https://maps.app.goo.gl/4ajuweib1sFcuWrq5
-URL:https://maps.app.goo.gl/4ajuweib1sFcuWrq5
-DESCRIPTION:Telli duvağı takıp kınamızı yakacağımız bu özel gecede\, eğlencemize ortak olmanızı çok isteriz. Sizi de aramızda görmek bizi çok mutlu eder. 🌿\n\nKonum: https://maps.app.goo.gl/4ajuweib1sFcuWrq5
 STATUS:CONFIRMED
+URL:https://maps.app.goo.gl/4ajuweib1sFcuWrq5
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kına gecesine 2 gün kaldı
+DESCRIPTION:Yiğit & Elif - Kına Gecesi
 TRIGGER:-P2D
 END:VALARM
 END:VEVENT
